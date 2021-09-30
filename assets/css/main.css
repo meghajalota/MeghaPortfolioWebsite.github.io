@@ -31,6 +31,12 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+#intro img{
+	
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
 
 ol, ul {
 	list-style: none;
@@ -238,6 +244,12 @@ input, select, textarea {
 
 		h1 {
 			font-size: 2em;
+		}
+		#intro img{
+	
+		  margin-left: auto;
+		  margin-right: auto;
+		  width: 40%;
 		}
 
 		h2 {
